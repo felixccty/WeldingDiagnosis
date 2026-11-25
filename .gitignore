@@ -30,6 +30,10 @@ USB9825.lib
 Data/
 *.bin
 
+# 例外：仓库内脱敏示例数据（文档引用）
+!examples/data/
+!examples/data/*.csv
+
 # 系统文件
 Thumbs.db
 Desktop.ini
