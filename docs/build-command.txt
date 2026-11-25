@@ -1,0 +1,1 @@
+qt  vs2019 打包c++代码： windeployqt  可执行程序名

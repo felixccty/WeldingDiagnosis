@@ -1,0 +1,42 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.pdb
+*.ilk
+*.obj
+*.tlog/
+ipch/
+
+# Qt 生成文件
+QtMsBuild/
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.moc
+
+# 采集卡 SDK 二进制（需自行获取，勿提交）
+*.dll
+*.lib
+USB9825.dll
+USB9825.lib
+
+# 运行时数据目录
+Data/
+*.bin
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 本地临时文件
+*.rar
+*.zip
+*.tmp
+_build_release.py
